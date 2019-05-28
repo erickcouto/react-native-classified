@@ -13,6 +13,17 @@ An example cloning the OLX Brazil layout using React Native...
 ![Preview](https://i.postimg.cc/3wLjXhkf/classified.jpg)
 
 
+## Usage
+
+```
+yarn install
+```
+
+Then run the project using react-native CLI
+
+```
+react-native run-android
+```
 
 ## Built With love from Brazil to World.
 
